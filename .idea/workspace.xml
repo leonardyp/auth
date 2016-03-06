@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="854cf5ba-dbd2-4541-895d-b65403de1b6b" name="Default" comment="" />
+    <ignored path="auth.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="auth" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/models/Orm.go" />
+        <option value="$PROJECT_DIR$/util/GUID.go" />
+        <option value="$PROJECT_DIR$/util/CacheInter.go" />
+        <option value="$PROJECT_DIR$/util/Cache.go" />
+        <option value="$PROJECT_DIR$/LoginLogic.go" />
+        <option value="$PROJECT_DIR$/util/Token.go" />
+        <option value="$PROJECT_DIR$/util/Auth_test.go" />
+        <option value="$PROJECT_DIR$/swagger/api/lib/swagger.js" />
+        <option value="$PROJECT_DIR$/docs/docs.go" />
+        <option value="$PROJECT_DIR$/routers/router.go" />
+        <option value="$PROJECT_DIR$/tests/default_test.go" />
+        <option value="$PROJECT_DIR$/models/Common.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/utils/util_test.go" />
+        <option value="$PROJECT_DIR$/utils/Auth_test.go" />
+        <option value="$PROJECT_DIR$/utils/GUID.go" />
+        <option value="$PROJECT_DIR$/rpc/tls/strict_tls.go" />
+        <option value="$PROJECT_DIR$/tls/strict_tls.go" />
+        <option value="$PROJECT_DIR$/logic/LoginLogic.go" />
+        <option value="$PROJECT_DIR$/rpc/rpc_test.go" />
+        <option value="$PROJECT_DIR$/conf/app.conf" />
+        <option value="$PROJECT_DIR$/rpc/conf/app.conf" />
+        <option value="$PROJECT_DIR$/utils/util.go" />
+        <option value="$PROJECT_DIR$/utils/Token.go" />
+        <option value="$PROJECT_DIR$/controllers/LoginController.go" />
+        <option value="$PROJECT_DIR$/rpc/rpc.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mtsrv/trunk" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/rpc/tls" />
+      <recent name="$PROJECT_DIR$/rpc" />
+      <recent name="$PROJECT_DIR$/utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/logic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="auth" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="auth" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="auth" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="auth" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="854cf5ba-dbd2-4541-895d-b65403de1b6b" name="Default" comment="" />
+      <created>1453170687281</created>
+      <option name="number" value="Default" />
+      <updated>1453170687281</updated>
+      <workItem from="1453170688741" duration="11000" />
+      <workItem from="1453170701689" duration="14023000" />
+      <workItem from="1453193755906" duration="243000" />
+      <workItem from="1453194010114" duration="5453000" />
+      <workItem from="1453215070087" duration="6748000" />
+      <workItem from="1457252115885" duration="15022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41500000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16565901" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/software/gopath/src/mtsrv/trunk/src/base/crypto/single_tls_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323263">
+          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/yp/go/src/crypto/tls/tls.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1163142">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/mtsrv/trunk/src/base/crypto/strict_tls_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56646526">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/stream_client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3776435">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/http_client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22960725">
+          <caret line="95" column="24" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/http_service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48031497">
+          <caret line="203" column="23" selection-start-line="203" selection-start-column="21" selection-end-line="203" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/stream_service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3776435">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/api/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6927899">
+          <caret line="81" column="46" selection-start-line="81" selection-start-column="46" selection-end-line="81" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/yp/go/src/net/http/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3776435">
+          <caret line="236" column="58" selection-start-line="235" selection-start-column="4" selection-end-line="236" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/yp/go/src/net/http/request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35498488">
+          <caret line="614" column="31" selection-start-line="614" selection-start-column="18" selection-end-line="614" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/wooyou-projects20150312/projects/web-dining/static/js/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/esprima/test/compare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7554859">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/wooyou-projects20150312/projects/web-dining/static/js/node_modules/grunt/node_modules/js-yaml/node_modules/esprima/test/compare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7319749">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/web-dining/static/js/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/esprima/test/compare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7554859">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/web-dining/static/js/node_modules/grunt/node_modules/js-yaml/node_modules/esprima/test/compare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7319749">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/default_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/yp/go/src/encoding/base64/base64.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323263">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/yp/go/src/encoding/base64/base64_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13595167">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#176#265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/yp/go/src/encoding/base64/example_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27190334">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/tls/server.crt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/result_mode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6495468">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/tls/server.key">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/tls/ca.crt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3882175">
+          <caret line="613" column="31" selection-start-line="613" selection-start-column="31" selection-end-line="613" selection-end-column="31" />
+          <folding>
+            <element signature="e#3521#3642#0" expanded="false" />
+            <element signature="e#4102#4134#0" expanded="false" />
+            <element signature="e#4201#4271#0" expanded="false" />
+            <element signature="e#4329#4463#0" expanded="false" />
+            <element signature="n#!!block;n#NewBaseClient#0" expanded="false" />
+            <element signature="n#!!block;n#Uri#0" expanded="false" />
+            <element signature="n#!!block;n#SetUri#0" expanded="false" />
+            <element signature="n#!!block;n#GetFilter#0" expanded="false" />
+            <element signature="n#!!block;n#SetFilter#0" expanded="false" />
+            <element signature="n#!!block;n#AddFilter#0" expanded="false" />
+            <element signature="n#!!block;n#RemoveFilter#0" expanded="false" />
+            <element signature="n#!!block;n#UseService#0" expanded="false" />
+            <element signature="n#!!block;n#Invoke#0" expanded="false" />
+            <element signature="n#!!block;n#invoke#0" expanded="false" />
+            <element signature="n#!!block;n#syncInvoke#0" expanded="false" />
+            <element signature="e#8757#8937#0" expanded="false" />
+            <element signature="n#!!block;n#asyncInvoke#0" expanded="false" />
+            <element signature="e#9731#9876#0" expanded="false" />
+            <element signature="n#!!block;n#doOutput#0" expanded="false" />
+            <element signature="n#!!block;n#doIntput#0" expanded="false" />
+            <element signature="n#!!block;n#createStub#0" expanded="false" />
+            <element signature="e#14598#14684#0" expanded="false" />
+            <element signature="n#!!block;n#isStructPointer#0" expanded="false" />
+            <element signature="n#!!block;n#checkRefArgs#0" expanded="false" />
+            <element signature="n#!!block;n#setResult#0" expanded="false" />
+            <element signature="n#!!block;n#getFuncName#0" expanded="false" />
+            <element signature="e#18262#18314#0" expanded="false" />
+            <element signature="n#!!block;n#getByRef#0" expanded="false" />
+            <element signature="e#18496#18532#0" expanded="false" />
+            <element signature="n#!!block;n#getSimpleMode#0" expanded="false" />
+            <element signature="e#18783#18831#0" expanded="false" />
+            <element signature="n#!!block;n#getResultMode#0" expanded="false" />
+            <element signature="e#19081#19129#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/tcp_client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6117825">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/examples/tcpfileclient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40785497">
+          <caret line="24" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/yp/go/src/crypto/tls/tls_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2915407">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/tls/client.crt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/tcp_service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7854985">
+          <caret line="71" column="39" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!block;n#FixArgs#0" expanded="false" />
+            <element signature="n#!!block;n#NewTcpService#0" expanded="false" />
+            <element signature="n#!!block;n#SetKeepAlive#0" expanded="false" />
+            <element signature="n#!!block;n#SetKeepAlivePeriod#0" expanded="false" />
+            <element signature="n#!!block;n#SetLinger#0" expanded="false" />
+            <element signature="n#!!block;n#SetNoDelay#0" expanded="false" />
+            <element signature="n#!!block;n#ServeTCP#0" expanded="false" />
+            <element signature="e#4771#5495#0" expanded="false" />
+            <element signature="e#5190#5233#0" expanded="false" />
+            <element signature="e#5568#5660#0" expanded="false" />
+            <element signature="n#!!block;n#NewTcpServer#0" expanded="false" />
+            <element signature="n#!!block;n#handle#0" expanded="false" />
+            <element signature="e#5961#6141#0" expanded="false" />
+            <element signature="n#!!block;n#Stop#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323263">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/examples/tcphelloclient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.067975834">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/hprose/hprose-go/examples/tcphelloserver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29456192">
+          <caret line="13" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/yp/go/src/crypto/tls/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8882176">
+          <caret line="283" column="14" selection-start-line="283" selection-start-column="4" selection-end-line="283" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logger/log.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.067975834">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tls/ca.crt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11329305">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/rpc_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29456192">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/tls/strict_tls.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31722054">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/gopath/src/github.com/astaxie/beego/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323263">
+          <caret line="125" column="23" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21159874">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21159874">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/api/lib/swagger-oauth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7734139">
+          <caret line="206" column="24" selection-start-line="206" selection-start-column="24" selection-end-line="206" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/api/lib/swagger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33228347">
+          <caret line="85" column="11" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="11" />
+          <folding>
+            <element signature="e#62#127#0" expanded="false" />
+            <element signature="e#83#124#0" expanded="false" />
+            <element signature="e#232#295#0" expanded="false" />
+            <element signature="e#330#512#0" expanded="false" />
+            <element signature="e#381#510#0" expanded="false" />
+            <element signature="e#443#491#0" expanded="false" />
+            <element signature="e#550#787#0" expanded="false" />
+            <element signature="e#600#607#0" expanded="false" />
+            <element signature="e#609#784#0" expanded="false" />
+            <element signature="e#822#1064#0" expanded="false" />
+            <element signature="e#869#876#0" expanded="false" />
+            <element signature="e#878#1061#0" expanded="false" />
+            <element signature="e#1108#2106#0" expanded="false" />
+            <element signature="e#1264#1473#0" expanded="false" />
+            <element signature="e#1546#2103#0" expanded="false" />
+            <element signature="e#1752#1844#0" expanded="false" />
+            <element signature="e#1879#2068#0" expanded="false" />
+            <element signature="e#1935#2055#0" expanded="false" />
+            <element signature="e#2811#4110#0" expanded="false" />
+            <element signature="e#2901#3965#0" expanded="false" />
+            <element signature="e#2985#3025#0" expanded="false" />
+            <element signature="e#3035#3961#0" expanded="false" />
+            <element signature="e#3069#3615#0" expanded="false" />
+            <element signature="e#3121#3209#0" expanded="false" />
+            <element signature="e#3242#3375#0" expanded="false" />
+            <element signature="e#3410#3496#0" expanded="false" />
+            <element signature="e#3502#3607#0" expanded="false" />
+            <element signature="e#3648#3955#0" expanded="false" />
+            <element signature="e#3814#3876#0" expanded="false" />
+            <element signature="e#3882#3947#0" expanded="false" />
+            <element signature="e#4206#4254#0" expanded="false" />
+            <element signature="e#4408#4444#0" expanded="false" />
+            <element signature="e#4520#4723#0" expanded="false" />
+            <element signature="e#4578#4719#0" expanded="false" />
+            <element signature="e#4643#4713#0" expanded="false" />
+            <element signature="e#4960#5179#0" expanded="false" />
+            <element signature="e#5185#5409#0" expanded="false" />
+            <element signature="e#5245#5405#0" expanded="false" />
+            <element signature="e#5430#5455#0" expanded="false" />
+            <element signature="e#5852#5888#0" expanded="false" />
+            <element signature="e#5959#6153#0" expanded="false" />
+            <element signature="e#6017#6149#0" expanded="false" />
+            <element signature="e#6073#6143#0" expanded="false" />
+            <element signature="e#6390#6613#0" expanded="false" />
+            <element signature="e#6619#6828#0" expanded="false" />
+            <element signature="e#6668#6824#0" expanded="false" />
+            <element signature="e#6849#6874#0" expanded="false" />
+            <element signature="e#6940#7295#0" expanded="false" />
+            <element signature="e#7004#7027#0" expanded="false" />
+            <element signature="e#7078#7179#0" expanded="false" />
+            <element signature="e#7148#7175#0" expanded="false" />
+            <element signature="e#7261#7293#0" expanded="false" />
+            <element signature="e#7344#7389#0" expanded="false" />
+            <element signature="e#7448#8094#0" expanded="false" />
+            <element signature="e#7627#7887#0" expanded="false" />
+            <element signature="e#7704#7883#0" expanded="false" />
+            <element signature="e#7748#7877#0" expanded="false" />
+            <element signature="e#7986#8073#0" expanded="false" />
+            <element signature="e#8136#8771#0" expanded="false" />
+            <element signature="e#8287#8754#0" expanded="false" />
+            <element signature="e#8416#8750#0" expanded="false" />
+            <element signature="e#8590#8744#0" expanded="false" />
+            <element signature="e#9465#9511#0" expanded="false" />
+            <element signature="e#9546#9612#0" expanded="false" />
+            <element signature="e#9659#9722#0" expanded="false" />
+            <element signature="e#9897#10432#0" expanded="false" />
+            <element signature="e#9989#10033#0" expanded="false" />
+            <element signature="e#10045#10426#0" expanded="false" />
+            <element signature="e#10080#10209#0" expanded="false" />
+            <element signature="e#10245#10418#0" expanded="false" />
+            <element signature="e#11013#11052#0" expanded="false" />
+            <element signature="e#11603#11807#0" expanded="false" />
+            <element signature="e#11657#11803#0" expanded="false" />
+            <element signature="e#11951#12509#0" expanded="false" />
+            <element signature="e#11975#12507#0" expanded="false" />
+            <element signature="e#12026#12307#0" expanded="false" />
+            <element signature="e#12070#12301#0" expanded="false" />
+            <element signature="e#12383#12484#0" expanded="false" />
+            <element signature="e#13042#13181#0" expanded="false" />
+            <element signature="e#13276#13316#0" expanded="false" />
+            <element signature="e#13352#13405#0" expanded="false" />
+            <element signature="e#13434#13652#0" expanded="false" />
+            <element signature="e#13539#13644#0" expanded="false" />
+            <element signature="e#14049#14260#0" expanded="false" />
+            <element signature="e#14307#14751#0" expanded="false" />
+            <element signature="e#14407#14732#0" expanded="false" />
+            <element signature="e#14537#14706#0" expanded="false" />
+            <element signature="e#14798#15271#0" expanded="false" />
+            <element signature="e#14934#15269#0" expanded="false" />
+            <element signature="e#14966#15152#0" expanded="false" />
+            <element signature="e#15019#15146#0" expanded="false" />
+            <element signature="e#15071#15138#0" expanded="false" />
+            <element signature="e#15338#15816#0" expanded="false" />
+            <element signature="e#15411#15796#0" expanded="false" />
+            <element signature="e#15886#16740#0" expanded="false" />
+            <element signature="e#15965#16042#0" expanded="false" />
+            <element signature="e#16499#16718#0" expanded="false" />
+            <element signature="e#16618#16714#0" expanded="false" />
+            <element signature="e#16810#17212#0" expanded="false" />
+            <element signature="e#16842#16883#0" expanded="false" />
+            <element signature="e#16891#17210#0" expanded="false" />
+            <element signature="e#17049#17152#0" expanded="false" />
+            <element signature="e#17262#18321#0" expanded="false" />
+            <element signature="e#17597#17764#0" expanded="false" />
+            <element signature="e#17631#17679#0" expanded="false" />
+            <element signature="e#17712#17760#0" expanded="false" />
+            <element signature="e#17916#18122#0" expanded="false" />
+            <element signature="e#18045#18118#0" expanded="false" />
+            <element signature="e#18150#18319#0" expanded="false" />
+            <element signature="e#18243#18315#0" expanded="false" />
+            <element signature="e#18396#18810#0" expanded="false" />
+            <element signature="e#18498#18564#0" expanded="false" />
+            <element signature="e#18570#18726#0" expanded="false" />
+            <element signature="e#18599#18659#0" expanded="false" />
+            <element signature="e#18665#18722#0" expanded="false" />
+            <element signature="e#18752#18778#0" expanded="false" />
+            <element signature="e#18784#18808#0" expanded="false" />
+            <element signature="e#18876#19173#0" expanded="false" />
+            <element signature="e#18919#18940#0" expanded="false" />
+            <element signature="e#18971#18996#0" expanded="false" />
+            <element signature="e#19048#19071#0" expanded="false" />
+            <element signature="e#19101#19123#0" expanded="false" />
+            <element signature="e#19129#19154#0" expanded="false" />
+            <element signature="e#19229#19747#0" expanded="false" />
+            <element signature="e#19439#19501#0" expanded="false" />
+            <element signature="e#19543#19634#0" expanded="false" />
+            <element signature="e#19661#19731#0" expanded="false" />
+            <element signature="e#19904#23499#0" expanded="false" />
+            <element signature="e#20934#21108#0" expanded="false" />
+            <element signature="e#21161#23297#0" expanded="false" />
+            <element signature="e#21388#21483#0" expanded="false" />
+            <element signature="e#21549#21646#0" expanded="false" />
+            <element signature="e#21849#22417#0" expanded="false" />
+            <element signature="e#22013#22411#0" expanded="false" />
+            <element signature="e#22084#22247#0" expanded="false" />
+            <element signature="e#22142#22235#0" expanded="false" />
+            <element signature="e#22261#22403#0" expanded="false" />
+            <element signature="e#22319#22391#0" expanded="false" />
+            <element signature="e#22461#23293#0" expanded="false" />
+            <element signature="e#22627#23287#0" expanded="false" />
+            <element signature="e#22724#23279#0" expanded="false" />
+            <element signature="e#22796#23269#0" expanded="false" />
+            <element signature="e#22894#23077#0" expanded="false" />
+            <element signature="e#22956#23061#0" expanded="false" />
+            <element signature="e#23095#23257#0" expanded="false" />
+            <element signature="e#23157#23241#0" expanded="false" />
+            <element signature="e#23363#23415#0" expanded="false" />
+            <element signature="e#23466#23496#0" expanded="false" />
+            <element signature="e#23556#23702#0" expanded="false" />
+            <element signature="e#23596#23670#0" expanded="false" />
+            <element signature="e#23676#23700#0" expanded="false" />
+            <element signature="e#23770#24133#0" expanded="false" />
+            <element signature="e#23955#23977#0" expanded="false" />
+            <element signature="e#23983#24131#0" expanded="false" />
+            <element signature="e#24011#24068#0" expanded="false" />
+            <element signature="e#24074#24127#0" expanded="false" />
+            <element signature="e#24202#24963#0" expanded="false" />
+            <element signature="e#24507#24961#0" expanded="false" />
+            <element signature="e#24629#24929#0" expanded="false" />
+            <element signature="e#24699#24728#0" expanded="false" />
+            <element signature="e#24750#24867#0" expanded="false" />
+            <element signature="e#25039#26832#0" expanded="false" />
+            <element signature="e#25172#25192#0" expanded="false" />
+            <element signature="e#25213#25233#0" expanded="false" />
+            <element signature="e#25329#25388#0" expanded="false" />
+            <element signature="e#25425#25473#0" expanded="false" />
+            <element signature="e#25495#25596#0" expanded="false" />
+            <element signature="e#25542#25591#0" expanded="false" />
+            <element signature="e#25621#25875#0" expanded="false" />
+            <element signature="e#25657#25870#0" expanded="false" />
+            <element signature="e#25728#25770#0" expanded="false" />
+            <element signature="e#25776#25814#0" expanded="false" />
+            <element signature="e#25942#26007#0" expanded="false" />
+            <element signature="e#26086#26372#0" expanded="false" />
+            <element signature="e#26161#26250#0" expanded="false" />
+            <element signature="e#26399#26455#0" expanded="false" />
+            <element signature="e#26479#26657#0" expanded="false" />
+            <element signature="e#26526#26653#0" expanded="false" />
+            <element signature="e#26591#26647#0" expanded="false" />
+            <element signature="e#26781#26802#0" expanded="false" />
+            <element signature="e#26808#26830#0" expanded="false" />
+            <element signature="e#26884#26935#0" expanded="false" />
+            <element signature="e#26986#27036#0" expanded="false" />
+            <element signature="e#27104#27496#0" expanded="false" />
+            <element signature="e#27218#27265#0" expanded="false" />
+            <element signature="e#27271#27494#0" expanded="false" />
+            <element signature="e#27381#27459#0" expanded="false" />
+            <element signature="e#27679#28088#0" expanded="false" />
+            <element signature="e#27744#28084#0" expanded="false" />
+            <element signature="e#27773#28005#0" expanded="false" />
+            <element signature="e#28155#28445#0" expanded="false" />
+            <element signature="e#28220#28441#0" expanded="false" />
+            <element signature="e#28264#28435#0" expanded="false" />
+            <element signature="e#28609#28660#0" expanded="false" />
+            <element signature="e#28726#28780#0" expanded="false" />
+            <element signature="e#28842#28895#0" expanded="false" />
+            <element signature="e#28958#29012#0" expanded="false" />
+            <element signature="e#29089#29484#0" expanded="false" />
+            <element signature="e#29192#29307#0" expanded="false" />
+            <element signature="e#29387#29457#0" expanded="false" />
+            <element signature="e#29532#29809#0" expanded="false" />
+            <element signature="e#29624#29793#0" expanded="false" />
+            <element signature="e#29866#31852#0" expanded="false" />
+            <element signature="e#30246#30661#0" expanded="false" />
+            <element signature="e#30684#31737#0" expanded="false" />
+            <element signature="e#30751#30891#0" expanded="false" />
+            <element signature="e#30917#31112#0" expanded="false" />
+            <element signature="e#30985#31083#0" expanded="false" />
+            <element signature="e#31034#31075#0" expanded="false" />
+            <element signature="e#31304#31532#0" expanded="false" />
+            <element signature="e#31465#31503#0" expanded="false" />
+            <element signature="e#31586#31673#0" expanded="false" />
+            <element signature="e#31679#31733#0" expanded="false" />
+            <element signature="e#31792#31830#0" expanded="false" />
+            <element signature="e#32701#32724#0" expanded="false" />
+            <element signature="e#33026#33193#0" expanded="false" />
+            <element signature="e#33282#33390#0" expanded="false" />
+            <element signature="e#33322#33386#0" expanded="false" />
+            <element signature="e#33396#33721#0" expanded="false" />
+            <element signature="e#33480#33648#0" expanded="false" />
+            <element signature="e#33776#34081#0" expanded="false" />
+            <element signature="e#33847#34077#0" expanded="false" />
+            <element signature="e#34005#34071#0" expanded="false" />
+            <element signature="e#34154#34216#0" expanded="false" />
+            <element signature="e#34222#34273#0" expanded="false" />
+            <element signature="e#34400#34465#0" expanded="false" />
+            <element signature="e#34569#35059#0" expanded="false" />
+            <element signature="e#34681#34757#0" expanded="false" />
+            <element signature="e#34817#35035#0" expanded="false" />
+            <element signature="e#34889#35029#0" expanded="false" />
+            <element signature="e#35635#36109#0" expanded="false" />
+            <element signature="e#35671#35749#0" expanded="false" />
+            <element signature="e#35788#35868#0" expanded="false" />
+            <element signature="e#35902#35982#0" expanded="false" />
+            <element signature="e#36021#36101#0" expanded="false" />
+            <element signature="e#36198#36224#0" expanded="false" />
+            <element signature="e#36325#36454#0" expanded="false" />
+            <element signature="e#36355#36404#0" expanded="false" />
+            <element signature="e#36410#36448#0" expanded="false" />
+            <element signature="e#36460#36485#0" expanded="false" />
+            <element signature="e#36539#36767#0" expanded="false" />
+            <element signature="e#36580#36708#0" expanded="false" />
+            <element signature="e#36624#36704#0" expanded="false" />
+            <element signature="e#36770#36828#0" expanded="false" />
+            <element signature="e#36909#37164#0" expanded="false" />
+            <element signature="e#37207#37528#0" expanded="false" />
+            <element signature="e#37298#37505#0" expanded="false" />
+            <element signature="e#37381#37501#0" expanded="false" />
+            <element signature="e#37459#37495#0" expanded="false" />
+            <element signature="e#37531#37619#0" expanded="false" />
+            <element signature="e#38004#38075#0" expanded="false" />
+            <element signature="e#38117#38184#0" expanded="false" />
+            <element signature="e#38190#38270#0" expanded="false" />
+            <element signature="e#38390#39371#0" expanded="false" />
+            <element signature="e#38587#38761#0" expanded="false" />
+            <element signature="e#38872#39137#0" expanded="false" />
+            <element signature="e#38965#39131#0" expanded="false" />
+            <element signature="e#39424#39496#0" expanded="false" />
+            <element signature="e#39537#39832#0" expanded="false" />
+            <element signature="e#39666#39755#0" expanded="false" />
+            <element signature="e#39884#39955#0" expanded="false" />
+            <element signature="e#40020#40507#0" expanded="false" />
+            <element signature="e#40051#40070#0" expanded="false" />
+            <element signature="e#40101#40131#0" expanded="false" />
+            <element signature="e#40171#40336#0" expanded="false" />
+            <element signature="e#40273#40330#0" expanded="false" />
+            <element signature="e#40342#40505#0" expanded="false" />
+            <element signature="e#40442#40499#0" expanded="false" />
+            <element signature="e#40559#41782#0" expanded="false" />
+            <element signature="e#40672#41282#0" expanded="false" />
+            <element signature="e#40688#40866#0" expanded="false" />
+            <element signature="e#40997#41262#0" expanded="false" />
+            <element signature="e#41090#41256#0" expanded="false" />
+            <element signature="e#41293#41710#0" expanded="false" />
+            <element signature="e#41325#41393#0" expanded="false" />
+            <element signature="e#41428#41499#0" expanded="false" />
+            <element signature="e#41529#41600#0" expanded="false" />
+            <element signature="e#41635#41706#0" expanded="false" />
+            <element signature="e#41723#41746#0" expanded="false" />
+            <element signature="e#41785#41881#0" expanded="false" />
+            <element signature="e#41921#41943#0" expanded="false" />
+            <element signature="e#42219#42469#0" expanded="false" />
+            <element signature="e#42275#42450#0" expanded="false" />
+            <element signature="e#42472#42548#0" expanded="false" />
+            <element signature="e#42603#42668#0" expanded="false" />
+            <element signature="e#42739#43058#0" expanded="false" />
+            <element signature="e#42770#42959#0" expanded="false" />
+            <element signature="e#42993#43056#0" expanded="false" />
+            <element signature="e#43309#43373#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/GUID.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3851964">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#ReadMachineId#0" expanded="false" />
+            <element signature="n#!!block;n#NewObjectId#0" expanded="false" />
+            <element signature="n#!!block;n#String#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/util.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04531722">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#15#102#0" expanded="true" />
+            <element signature="n#!!block;n#Md5#0" expanded="false" />
+            <element signature="n#!!block;n#Base64Encode#0" expanded="false" />
+            <element signature="n#!!block;n#Base64Decode#0" expanded="false" />
+            <element signature="n#!!block;n#RandomNum#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/rpc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13595167">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/LoginController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5241692">
+          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="e#21#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09063444">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/LoginLogic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4305136">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#15#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/Token.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18126889">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#65#0" expanded="true" />
+            <element signature="n#!!block;n#TokenInsert#0" expanded="false" />
+            <element signature="n#!!block;n#IsValid#0" expanded="false" />
+            <element signature="n#!!block;n#ClearToken#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
